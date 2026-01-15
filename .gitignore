@@ -1,0 +1,39 @@
+# Build artifacts
+build_*/
+*.bin
+*.elf
+*.map
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Arduino
+*.hex
+*.eep
+*.lss
+*.sym
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.old
