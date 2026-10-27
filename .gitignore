@@ -37,3 +37,4 @@ __pycache__/
 *.tmp
 *.bak
 *.old
+.claude/

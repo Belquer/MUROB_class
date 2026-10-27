@@ -24,7 +24,7 @@
 
 // REPLACE WITH YOUR RECEIVER'S MAC ADDRESS
 // To get receiver MAC: Upload receiver code first and check Serial Monitor
-uint8_t receiverAddress[] = {0x80, 0xF3, 0xDA, 0x65, 0x70, 0xCC};  // Receiver MAC: 80:f3:da:65:70:cc
+uint8_t receiverAddress[] = {0xF8, 0xB3, 0xB7, 0x4F, 0x5A, 0xFC};  // Receiver MAC: 80:f3:da:65:70:cc
 
 #define LED_PIN 2  // Built-in LED pin (GPIO2 for most ESP32 boards)
 
